@@ -1,0 +1,26 @@
+---
+court: "Kentucky Court of Appeals"
+decided: "1874-09-16"
+citations: ["8 Ky. Op. 51"]
+reporter: "ky-op"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Harris v. Commonwealth."]
+source_url: "https://static.case.law/ky-op/8/cases/0051-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1402212
+cites_cases: ["18 B. Mon. 40"]
+---
+
+# Harris v. Commonwealth
+
+## Majority (Judge Pryor :)
+
+Opinion by
+Judge Pryor :
+After a careful consideration of the instructions given in this case, we have been unable to find any error to the prejudice of the accused of which he has the right to complain. Instruction No. 1, given at the instance; of the defense, tells the jury “that if the accused believed and had reasonable grounds to believe at the time he shot the deceased, that he was in immediate danger of losing his life, or great bodily harm from the deceased, he had the right to do what under all the circumstances seemed necessary to him to protect himself from the impending danger, even to the taking of the life of his adversary.” This part of the instruction was certainly as favorable to the accused as the facts upon which it was based authorized; but the court, by this instruction, goes further and says “that this belief of danger might be entertained not only from what took place at the time of the killing,” but from all the accompanying circumstances, coupled with the manner, hearing, language, conduct and condition of the deceased before and at the time of the killing, thus giving to the accused the full benefit of every action on the part of the deceased toward him or any one else at the time of the killing, or prior thereto, calculated to create the belief that the accused was in danger. Such a comprehensive instruction might well be given in a case where one was being pursued or threatened by a desperate or dangerous man; but in the present case, without reciting the testimony, we must say that the latter branch of the instruction should have been omitted.
+Instruction No. 2 tells the jury “that the law allows in the defense of one person, such means as are necessary, or reasonably seem to him to be necessary,-and in the selection of such means he must of necessity exercise his own judgment; and if the jury believe from the testimony, that, at the time the prisoner shot the deceased, he had reasonable grounds to believe, and did believe, that the only means to prevent the infliction of great bodily harm then impending, was to shoot the deceased, they ought to acquit.” We perceive no valid objection to this instruction. The jury are told that the prisoner must have believed that his only means of escape was to kill his adversary, before he could be excused; and he must not only'entertain this belief, but he must have reasonable grounds for so believing. The modification of the instruction as designed by counsel for the defense, makes the guilt or innocence of the accused depend upon the fact “that the means used reasonably seemed to the accused to be necessary to save himself, whether warranted by the evidence or not.” Where the accused acts from what to him seemed necessary action, he acts at his peril; but where he does believe that he is in danger, and has reasonable grounds f<?r so believing, he is excusable. The jury has already been told by instruction No. i, as well as the instruction asked to be modified, what constituted self defense; but counsel, by transposing the words used in instruction No. 2, given by the court, and placing them at the close of the instruction asked for by them, have asked the court to say to the jury that if the means used by the accused to save himself reasonably seemed to him to be necessary, they must acquit. This was calculated to mislead, and was not the law, without the qualification contained in instructions 1 and 2, given for the defense. There is but little analogy between this case and the case of Meredith v. The Commonwealth, reported in 18 B. Mon. 40. In the latter case, the , accused had not only been threatened, but assaulted, and a gun pointed at the accused by the deceased at the time the shot was fired. In this instance, the court, in the instruction, made the guilt of the accused depend upon the fact as to whether he could or not have safely retreated, and thereby save his life; whereas he had the right, .if he believed he was in danger of losing his life, and had reasonable grounds for so believing, to shoot, although it afterwards appeared that he might have avoided the danger without even injuring his adversary.
+Brent & McMiller, for appellant.
+John, Rodman, for appellee.
+The fact that the jury were told that if they believed the accused guilty, but entertained a doubt as to the degree of guilt, they must find him guilty of manslaughter, was proper; for if guilty, it was murder or manslaughter.
+The court properly repeated the testimony as to the conduct of the deceased on the day of the killing. It seems that he had been quarreling with one or two others, but what he said or did had no connection with reference to the accused, and is in no manner calculated to cause a belief by the latter that he would be attacked by deceased. The judgment must be affirmed.
