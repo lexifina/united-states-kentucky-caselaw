@@ -1,0 +1,37 @@
+---
+court: "Supreme Court of Kentucky"
+decided: "1884-05-15"
+citations: ["4 Colo. L. Rep. 723"]
+reporter: "colo-l-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHNSON v. COMMONWEALTH."]
+source_url: "https://static.case.law/colo-l-rep/4/cases/0723-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12144087
+cites_cases: ["13 Bush, 237"]
+---
+
+# Johnson v. Commonwealth
+
+## Majority (Judge Lewis.)
+
+Opinion of the Court by
+Judge Lewis.
+Appellant having been indicted at the February term, 1882, of the Logan Circuit Court for the murder of George Richards, was at the February term, 1884, tried and convicted and his punishment fixed at death.
+The first error complained of that it is necessary to notice, is the order of Court overruling appellant’s application for a change of venue.
+In his petition verified by his affidavit, he stated that on account of the prejudice of the people of Logan county against him he could not have a fair and impartial trial in that county. Accompanying his petition were filed affidavits of nine persons, not of kin to, nor of counsel for the defendant, including the Judge of the County Court and the county attorney, in which they stated they were acquainted with the state of public opinion in that county, and that they believed the statements of appellant’s petition for such change of venue were true.
+The Judge of the County Court, in his affidavit, stated that he was impressed with the necessity of removing appellant from the jail of Logan county in order to prevent violence being done him by a mob, by the feeling then prevailing in that community that such violence was liable to occur. He stated that he had no evidence of the intention of any one to commit such violence, but that there was an intangible and indefinite feeling of danger pervading the community, and he assumed the responsibility of removing appellant on that account.
+In his affidavit, the county attorney stated that he had heard appellant’s case discussed by men from all parts of the county, and was satisfied he could not have a fair trial there, owing to the prejudice against him. He stated that the principal ground for his belief was the fact that about two months previous to the term of court at which appellant was tried and convicted, a mob took two negroes from the jail and hung them, and it was complained throughout the county that the mob did not complete its work, and that it ought to have hung appellant, who was in jail at the time.
+Previous to the amendment of the Gen. Stats., the defendant in a criminal prosecution was entitled to a change of venue as a matter of right, from the county in which the crime was alleged to have been committed, to an adjoining county, upon his petition verified by his affidavit and the affidavit of two credible persons acquainted with the state of public opinion, to the effect that he could not have a fair trial in the county where the prosecution was pending. Mickey v. Commonwealth, 13 Bush, 237.
+But by an act approved April 1, 1880, sub-sec. 2 of Sec. 1, Art. 4, ch. 12, has been amended by adding the following, viz: “And the Court shall, on said motion, hear all witnesses that may be produced by either party, and from the evidence determine whether or not the applicant is entitled to change of venue.”
+In this case, as he was authorized to do by the act just quoted, the Commonwealth’s attorney called and examined seven witnesses, who stated in substance that they were acquainted with the state of public sentiment in different portions of the county in reference to appellant, and knew of no reason why he could not have a fair and impartial trial in that county in the ordinary and legal way of selecting a jury.
+The Legislature did not intend by the amendment to the Gen. Stats, to deprive a defendant in a criminal prosecution of the right to change of venue when it is necessary or even probably necessary to a fair and impartial trial, but the object of it was simply to give to the Court the right to hear evidence against as well as in favor of the application, and in the language of the law, “from the evidence determine whether or not the applicant is entitled to a change of venue.”
+When the application is made in good faith, and it appears from the evidence that there are reasonable grounds to believe that the defendant cannot have a fair trial in the county where the offense was committed, it is as much the duty of the Court now as it was before the adoption of the amendment to make an order for such change.
+In addition to the sworn statements of seven credible and disinterested witnesses, two officers, the county Judge, and county attorney, who are presumed to be acquainted with public sentiment in the county, not only give as their opinion, but state such facts as make it obvious that appellant could not have a fair and impartial trial in that county. In our opinion, therefore, appellant was clearly entitled to a change of venue, notwithstanding the statements made by the witnesses introduced by the Commonwealth, which were merely negative in their character, and the Court erred to the prejudice of appellant’s substantial rights in overruling his application.
+The Court did not, in our opinion, err in refusing to permit John Johnson, the brother of appellant, to detail the particulars of the alleged whipping inflicted upon him by the deceased Richards, in the absence of appellant.
+There is no evidence showing or conducing to show that the killing was done in the necessary self-defense of appellant, and, as the record now stands, it was either murder or manslaughter.
+Mrs. Welch, the sister of appellant, was permitted by the Court to state all that occurred between herself and appellant when he arrived at her house after an absence of several days from the neighborhood, and all that she told him in relation to the whipping of their brother by the deceased.
+As, according to her statement, appellant became greatly enraged and excited when informed by her of the occurrence, and went from her house immediately and directly to the tobacco barn where he, without any altercation or delay, shot and killed Richards, the only knowledge he had in regard to the whipping must have been derived from his sister. And as the heat and passion, under which it is contended for him he took the life of deceased, was caused solely by the whipping of his brother as narrated to him by his sister, it was not competent, because not pertinent, for his brother on the trial to detail the particulars of the whipping as it actually occurred. “The provocation which extenuates in the case of homicide must be something which the man is conscious of, which he feels and resents at the instant the fact which he would extenuate is committed, not what time or accident may afterwards bring to light.” Roscoe’s Criminal Evidence, 737.
+Appellant was not influenced to kill deceased by the whipping of his brother as it actually occurred, for he was not present, but all the knowledge he had in regard to it he derived from his sister, and consequently whatever consciousness he had on the subject, or feelings were aroused, were caused by her recital of the occurrence to him.
+We do not deem it necessary to notice other errors complained of, but for the reason indicated the judgment must be reversed and cause remanded for a new trial and further proceedings consistent with this opinion.
