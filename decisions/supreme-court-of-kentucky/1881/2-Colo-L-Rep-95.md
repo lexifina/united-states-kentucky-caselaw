@@ -1,10 +1,11 @@
 ---
-court: "Supreme Court of Kentucky"
+court: "Kentucky Court of Appeals"
 decided: "1881-09-10"
 citations: ["2 Colo. L. Rep. 95"]
 reporter: "colo-l-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
+cap_court: "Supreme Court of Kentucky"
 parties: ["Simrall v. Grant."]
 source_url: "https://static.case.law/colo-l-rep/2/cases/0095-04.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
