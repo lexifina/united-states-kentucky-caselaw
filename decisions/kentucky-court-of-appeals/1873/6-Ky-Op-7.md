@@ -1,0 +1,31 @@
+---
+court: "Kentucky Court of Appeals"
+decided: "1873-03-07"
+citations: ["6 Ky. Op. 7"]
+reporter: "ky-op"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Adams Express Co. v. Loeb & Bloom."]
+source_url: "https://static.case.law/ky-op/6/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1396610
+---
+
+# Adams Express Co. v. Loeb
+
+## Majority (Judge Peters:)
+
+Opinion by
+Judge Peters:
+The court below, on motion of appellees, gave four instructions to the jury, the first is in substance as follows: That if they shall believe from the evidence that the printed conditions in the receipt dated December 31st, 1867, were not explained to the plaintiffs at the time or were not understood by them and recognized by them as a part of the contract, and shall further believe that plaintiffs delivered to defendant the express company;, a box containing 621 mink skins, 6 otter skins and one beaver skin and they received the same for shipment fio New York, and that while said skins were in the custody, or under the control of said company or its agents any of said skins were taken from! the box, or were lost, or- defendant failed to' deliver them, then the juiy should find for the plaintiffs whatever they shall believe from the evidence said lost or missing skins were worth. But, if the jury shall believe from the evidence that plaintiffs were aware of, and understood the printed conditions upon said receipt, and accepted it with such conditions then the express company would only be liable to them for such loss as may have occurred by the gross negligence, or fraud of said company or its agents.
+2. That if the jury believe from the evidence, that after the box of skins was delivered to defendant’s agents at Paducah, 83 mink skins and one other skin were taken out of said box while in the custody of defendant or their agent, and before the box was delivered to the consignee in New York, then the law is for the plaintiffs and the jury must SO' find unless they shall believe from the evidence that the printed provisions in said receipt were agreed to by plaintiffs, then the defendants are only responsible if said loss was the result of the fraud, or gross negligence of defendant or its agents.
+3d. If the jury believe from1 the evidence that the plaintiffs, by the defendant, a box containing 621 mink skins, 6 other skins, and one bear skin, and that the defendant was. at the time a common carrier for him, then the law is, that the defendant shall deliver the box and contents as received.
+4th. The court tells the jury that nothing will excuse a common carrier for the non-delivery of goods received for transportation except the act of God, or public enemy, unless there is a special contract entered into by which the liability of the common carrier is restricted, and before the liability of a common carrier can be restricted by such special contract or agreement, the same must be clearly proved that such contract was fairly made, and fully understood, and the burden of proving such contract rests upon the common carrier.
+In Adams Express Co. v. J. J. Guthrie, Miss. Opinion, October 1872, this court said the objection to the ruling of the Common Pleas judge is that he not only required appellant to prove clearly that the contract embraced in the printed receipt signed by the company’s agent, and accepted by the shipping merchants was actually entered into, but was fully understood and freely made. If the contract was actually made it is binding on both parties, and appellee can not escape from its consequence unless it appears that he acted under duress, or that it was imposed upon him or his agent under circumstances which probably prevented them from examining the writing, and understanding its nature.
+Ordinarily written contracts can not be contradicted, or essentially modified by oral testimony, without proof of fraud or mistake, and it would be carrying the innovation made upon the statutory rule in this class of contract to> a most unreasonable extent to allow the shippers to 'avoid them1 on account of duress, importunity or delusion on failure to understand their effect, and also to presume the existence of one or all of these grounds of avoidance, and compel the carriers by proof to rebut the presumption.
+The more rational course would be to hold that such contracts could not be enforced at all. In our opinion, it is only necessary that the carrier shall satisfactorily prove that a special contract was made under circumstances indicating fairness, and good faith, and that then it is incumbent upon the shipper to show that the contract for some of the reasons indicated ought not fi> be enforced against him.
+The instructions in this case go farther than the rule here prescribed that governs this class of contract. The first one required appellant to satisfy the jury that it explained the contract to ap-pellees, or that it was understood by them, and recognized by them as a part of the contract. It is a difficult task to prove that a party understands a contract; to understand and give proper construction to contraes is often among the most difficult and vexatious questions that learned judges have to solve, but without pursuing the subject farther, the law of the case as prescribed in the instruction imposed a greater burden on appellant than was authorized by the ruling of this court in the case supra. It was incumbent on it to show that the special contract was made under circumstances indicating fairness and good faith — and then the burden of prbof to show that the contract ought not to be enforced for some of the reasons indicated was on appellees.
+Sachs, for appellant.
+Quigley, for appellees.
+Besides Instruction No. three is not consistent with the other three given for appellees; this third instruction requires appellant, if it was a common carrier, at the time, to deliver the box and contents to appellees’ consignee as received, allowing no excuse, a regardless of every misfortune, contingency, or special contract.
+The judgment must therefore be reversed, and the cause remanded with directions to award a new trial and for further proceedings consistent herewith.
