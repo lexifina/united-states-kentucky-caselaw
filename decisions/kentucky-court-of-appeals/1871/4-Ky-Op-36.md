@@ -1,0 +1,22 @@
+---
+court: "Kentucky Court of Appeals"
+decided: "1871-05-22"
+citations: ["4 Ky. Op. 36"]
+reporter: "ky-op"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. G. Wallace et al v. David Boyle."]
+source_url: "https://static.case.law/ky-op/4/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1389861
+---
+
+# Wallace v. Boyle
+
+## Majority (Judge Lindsey:)
+
+Opinion oe the Court by
+Judge Lindsey:
+The work on Third' street was done under an ordinance providing for the regrading and macadamizing of the same, in a certain and specific manner, under the superintendence of the city engineer and the committee on internal improvements. The evidence shows that under the direction of said engineer and committee the contractor not only regraded and-macadamized the street, but made a fill raising the same from 3 to SY¿ feet throughout the entire extent of the improvement. The ordinance certainly did not contemplate that any such fill should be made. It is true it usés both the terms “regrading” and “filling,” but uses thorn as synonymous. But when we come to examine the ordinance receiving the work and providing for the payment of the cost of the same, the council seems to have recognized the fact that the enginer and street committee misunderstood the meaning of the original ordinance and caused the contractor to make improvements not authorized by the. same, and this last ordinance requires the lot owners to pay not only for regrading and macadamizing but for “filling” said street. That the original ordinance did not authorize any such “fill” as that made by the contractor is, we think, clear, and in this conclusion we are fortified by the fact, that the work as done, instead of enhancing the value, is an absolute injury to the lots abutting on that portion of the street so improved, as the street is from 8 to 15 feet higher than said lots. Under the charter of the city, the council may provide for the improvement or repair of the streets of the city, and in proper cases, may have the same improved or repaired at the cost of the lot owners, but we do not conceive that the city engineer and street committee can have work done without authority from the legislative department of the city government, and that property owners whose lots front on the streets upon which such work is done, can be compelled to pay the expense thereby incurred by a subsequent ratification by the council of the action of said officers. Hydes & Goose v. Norwood, &c., 4th Bush, 464. We are of the opinion that in this case the contractor must look to the city for at least a portion of his pay, and that the property of the appellants cannot be subjected to the payment of his claim in so far as it embraces work done in excess of that authorized to be done by the original ordinance. Whilst it is true that the act of February 24th, 1865, gives equitable powers to the court to ascertain what portion of the cost of street improvements made in the city of Covington has been incurred on account of work done by authority of law, and to hold the lot owners responsible for the amount so ascertained, and that the act of 1867 authorized for such purposes a tax to be imposed upon the lot owners, equal to one-half the value of the lots fronting the improvements, yet we conceive that neither of these acts can be enforced in cases in which the taxpayer not only receives no benefit whatever from the improvement, hut is damaged thereby. The constitutionality of such local taxation depends upon the fact, that the party whose property, or money, is taken for the publip benefit, receives compensation therefor in some degree in the enhancement of the value of his remaining property. In this case the evidence tends strongly to the conclusion that the property of the parties taxed has been absolutely damaged by the work done, upon the street, and if this be true, it would be a monstrous outrage to compel them to pay the cost of making the improvement, by which their property is impaired in value. Upon the return of the cause they should be allowed to amend their pleadings and raise this issue in case they see proper to do so, and both parties should be given reasonable time within which to take additional proof. For the errors pointed out the judgment is reversed, and the cause remanded for further proceedings consistent with this opinion.
+Menzies & Furber, Benton, for appellant.
+Balter, Fisks, for appellee.
