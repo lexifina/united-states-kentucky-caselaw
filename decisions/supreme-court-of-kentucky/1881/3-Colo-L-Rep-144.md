@@ -1,10 +1,12 @@
 ---
-court: "Supreme Court of Kentucky"
+court: "Kentucky Court of Appeals"
 decided: "1881-12"
+decided_precision: "month"
 citations: ["3 Colo. L. Rep. 144"]
 reporter: "colo-l-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
+cap_court: "Supreme Court of Kentucky"
 parties: ["Reid v. Punch"]
 source_url: "https://static.case.law/colo-l-rep/3/cases/0144-02.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
