@@ -1,0 +1,26 @@
+---
+court: "Kentucky Court of Appeals"
+decided: "1866-06-14"
+citations: ["1 Ky. Op. 36", "2 Duv. 420", "63 Ky. 420"]
+reporter: "ky-op"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Green v. Stevens."]
+source_url: "https://static.case.law/ky-op/1/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1381645
+---
+
+# Green v. Stevens
+
+## Majority (by the Court :)
+
+Opinion
+by the Court :
+This motion to re-enter of record a judgment of the Metcalf Circuit Court, the record of which with all other records of that court in the office of its clerk, had been destroyed by fire, may have been made under the first section of the Act of January, 1864, to amend chapter 35 of the Revised Statutes (Supplemental Rev. Stat. of Ky., p. 206), or it may have been made under the sixteenth section of said chapter 35, 1 Stanton’s Rev. Stat. 467, 468.
+By the thirteenth and fourteenth sections of the said thirty-fifth chapter, page 467, the court whose records are destroyed is directed to appoint a commissioner, who is authorized to fix the place of his sitting from time to time, of which he is to give public notice, and he is authorized to take evidence in writing relative to any record or paper so destroyed, etc., which shall be legal evidence, and returned to the court.
+The only evidence.heard on the trial of this motion was a deposition of R. H. Young, clerk of the court, whicli makes the requisite proof as to the existence, terms and destruction of the judgment sought to be re-entered. This deposition was excepted to as baying been taken without a notice of the time and place haying been executed on the defendant Green, and because the officer before whom it was taken was not qualified to take the deposition to be read as evidence in such cases. But as the deposition was admitted as evidence by the court, on the certificate of J. W. Compton styling himself commissioner to reinstate the records of the Metcalf circuit Court etc., it must be presumed that he was appointed to that office by the court under the authority of the thirteenth section of the Devised Statutes, chapter 35, and that consequently he was authorized by the fourteenth section to take and report evidence in writing, and of course by deposition, relative to the matter involved in this motion, and. as it may be presumed that he gave public notice of the time and place of his sittings as required by the thirteenth section, which is not negatived by the exception to the deposition, but rather to be implied from it, we cannot say that the court erred in allowing the deposition to be read as evidence. >
+But we are of opinion that the court erred in not allowing the defendant to examine the clerk of the court whose deposition had just been read, and to prove by him that at the time at which the judgment was rendered (December term, 1864), grounds for a new trial were filed by the defendant, and motion entered therefor, which was continued to the then pending term of the court, at which this motion was being tried, and that all the records were burned, etc. The evidence seems to have been rejected on the ground that no notice had been given by Green. But certainly no notice could have been deemed requisite to authorize the oral examination of a person then in court, whose deposition, taken in the absence of the party desiring to make such examination, had just been read as evidence against him. The notice must have been deemed necessary upon the ground that the testimony was intended to supply by re-entering another record than that to which the plaintiff’s motion related. But the defendant made no motion to that effect; and if he had made such motion, as its success would have suspended either the entry of the plaintiff’s judgment or its operation, it would have been more proper if the plaintiff was not ready to answer the defendant’s motion that both motions should have been continued, or that the effect of the judgment if entered should have been suspended, than that an absolute judgment should be entered, without recording also a fact or facts which qualified or suspended its effect.
+Harlem & Harlan, for appellant.
+This view of the nature of the fact offered to be proved shows that it was relevant and material, not only as the foundation of a distinct motion for restoring the record, but that it was also material as a defense to the plaintiff’s motion, since it would show that the judgment had been suspended, and not being in force as an absolute judgment before it was destroyed ought not to be so entered as to be absolute and immediate after the destruction of the original record. Indeed the motion for a new trial by which judgment is suspended forms so necessary a part of the record of the judgment that the record of the judgment should in propriety and justice include the motion for a new trial.
+Wherefore, the judgment is reversed, and the cause remanded for a new trial, with directions to allow the defendant to prove the part of the motion for a new trial in the former case, and other facts connected therewith, should he offer to do so, and for a judgment in conformity with the principles of this opinion.
