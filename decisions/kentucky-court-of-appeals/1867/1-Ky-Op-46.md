@@ -1,0 +1,30 @@
+---
+court: "Kentucky Court of Appeals"
+decided: "1867-04-26"
+citations: ["1 Ky. Op. 46"]
+reporter: "ky-op"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jesse and W. G. Deshazer v. A. B. Bonta."]
+source_url: "https://static.case.law/ky-op/1/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1381491
+---
+
+# Deshazer v. Bonta
+
+## Majority (Judge Peters :)
+
+Opinion op ti-ie Court by
+Judge Peters :
+On the 20th of April, 1864, appellee recovered judgment in the Mercer Circuit Court against Elijah Gabbert and the appellant, Jesse Deshazer, for $560, with interest from the 1st of January of the same year and costs of suit, and caused execution to issue thereon, on the 2d of May, 1864, and placed the same in the hands of the sheriff of Mercer county, who returned it on the 1st of June thereafter with the following indorsement: “ No property found to make this fi. fa or any part thereof.”
+Soon after said execution was thus returned, appellee filed his petition against the defendants, Jesse Deshazer, Elijah Gabbert, and William G. Deshazer, alleging, in addition to the foregoing facts, that Jesse Deshazer was the owner of a tract of over 300 acres of land in Mercer county, which was all the land he owned and which he conveyed to his son, William Deshazer, for the consideration, expressed of the deed, of $4,000 in hand paid on the 3d of March, 1864, and had also conveyed to him a negro woman and two children, his stock consisting of horses, cattle, etc., and his-household and kitchen furniture. That said conveyances were-made without any valuable or legal consideration, that said William is the son of said Jesse, that he was a young man without; adequate means to pay for. said property, that said conveyances, were made to cover up and protect the property from liability to-the payment of his and other debts of said Jesse, that it was all-held by William in secret trust for the benefit of his father, Jesse,, who remains in the actual occupancy and possession of said property as he did before the. pretended sale was. made, which he-charges to be fraudulent and void as to him and other creditors,, and prays that the property named, enough thereof for the purpose, may be sold to satisfy his debt.'
+The conveyance of the land, two steers,' and some hogs is admitted in the answers of appellants, but the imputed fraud is-denied, and it is also denied that Jesse sold or conveyed the slaves-named to William, or that he purchased all the furniture and-farming utensils of Jesse. And both insist that the sales werebona fide, upon a valuable consideration, paid at the' time, as-recited in the conveyance, and the right of appellee to subject, any of the property to the payment of' his debt denied and resisted.
+It appears that, at the time of the alleged sale William Deshazer was a young man not over twenty-four years of age, that he-had no estate, and no means of acquiring property except by his; occupation of trader, as he was not a mechanic and had no profession and seems to have been engaged in no bther business-except that of trader; and the extent of trading which the evidence-shows he had done was to have bought and sold a few horses; that in the winter of 1863-64 he, with his partners, purchased some-2,000 bushels of wheat, and upon which, one of his partners-proved, they realized a profit of $150. That he was engaged a few months in merchandising with a partner, both having but a very small capital embarked in the enterprise, of which William, advanced at no time over $700, and in the spring of 1864 he withdrew from the firm, having realized a profit of about $100; he-had purchased some corn, perhaps 150 barrels, but whether he-made a profit on it or not is not shown.
+Some of the witnesses speak of having seen William with-money and the evidences of debts to a considerable amount, and ■one says he saw in his possession money and notes to the amount -of about $3,500, but it is proved by other witnesses that his father had placed in his hands some notes amounting to about $3,000 ■to collect and had agreed to give him the one-half thereof, and •the witness (who saw him with the $3,500 of money and notes in his hands) says some of said notes were payable to his father, ibut were assigned to him.
+.Hardin & Bell, for appellants.
+.Hooe & Giather, for appellee.
+Buford proves he sold William a negro woman and child, thinks ■the sale was made in the spring of 1863, for $650, or $660; did •not know the name of the woman. So that to enable him to have paid the cash for the land and negroes he must have made by :his occupation of trader at the age of twenty-four years, 650, .as there is no evidence that he borrowed any part of said sum.
+But he had all his life lived with his father; after the conveyance the father continued to live on the place, and the family dived together as they had previously done, no change in possession visible, except some of the witnesses say the son seemed to control the farm, hired the hands to work it, and purchased some seed ■■to sow. The debt of appellee had matured about two months be•fore the date of the conveyance; the father, as the evidence shows, was bound for other debts as surety. Gabbert, the other obligor in the note of Bonta, was insolvent, and suit might be, and doubtless was, expected to be brought on this debt, and these things •■seem to furnish a motive with the father to place his property in «•the hands of his son, whereby a home could be secured to the ■family. And there is no reason furnished why William should -desire to invest his funds in land when, if the theory of appellants •be true, he could use them so successfully and profitably in trading.
+We feel constrained, in view of the facts developed, to concur :in opinion with the circuit judge, that said deed as to appellee ■was fraudulent, and the property should be made subject to his «•debt.
+Wherefore, the judgment is affirmed.
