@@ -1,0 +1,32 @@
+---
+court: "Kentucky Court of Appeals"
+decided: "1872-03-26"
+citations: ["5 Ky. Op. 84"]
+reporter: "ky-op"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["F. Higgenson’s Exrs v. J. M. Fitzhenry et al."]
+source_url: "https://static.case.law/ky-op/5/cases/0084-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1392959
+---
+
+# Higgenson's Exrs. v. Fitzhenry
+
+## Majority (Judge Pryor.)
+
+Opinion of the Court by
+Judge Pryor.
+Fitzhenry, Liversay and Joseph C. Mitchell were partners under the firm name of J. M. Fitzhenry & Co., in running a planing mill located on a piece of ground leased to the firm by Mitchell, one of the partners.
+There was a steam engine and machinery connected with this mill, all of which was partnership property. After the partnership had been in existence for some time, two of the partners, Fitzhenry and Liversay, left the state and joined the southern army. At the time they left, the partnership property was insufficient to pay the firm debts, and Joseph C. Mitchell, the partner, remaining in Kentucky, executed a mortgage to his father, Joseph Mitchell, Sir., for ¡the purpose of securing him in the payment of several notes owing him by the firm, amounting to twelve or fifteen hundred dollars. This mortgage was executed in the firm name, and for the purpose of securing only firm liabilities and' dated in January, 1862.
+Joseph Mitchell, the father, assigned these notes to the appellee,, Clements, who instituted his action thereon on the equity side of the docket, and obtained attachments against the two partners, Fitzhenry and Liversay, who had left the state and had them levied on their individual property. This property consisted of a house and' lot owned by each one of them in Uniontown — the attachments were levied on the 21st of February, 1862. On the 27th of February, 1862, Wheeler & Son had an attachment issued, and levied on the dwelling house and lot owned by J. M. Fitzhenry, and also had the same levied on his, Fitzhenry’s, interest in the partnership property.
+This attachment was for the individual liability of Fitzhenry, and the house and lot was the same property previously levied on by the attachment in favor of the appellee, Clements.
+In March, 1862, the appellants, Higgenson’s executors, filed1 a petition in the same court, alleging an indebtedness to them by the firm of $1,100; that the mortgage was executed to Joseph Mitchell by his son, Joseph C. Mitchell, one of the'firm, in contemplation of insolvency and with a design to prefer creditors, etc., and seeks to bring the case within the provisions of the act of 1856. The attaching creditors are all made defendants to this petition, and the cases were consolidated and heard tog-ether.
+Clements, in an amended petition, and also in his answer claims that he should be substituted to the rights of Joseph Mitchell, the mortgagee,.-and asks that the mortgage be foreclosed. The court below adjudged that he was entitled to foreclose the mortgage, substituted him to the rights of his assignor, Mitchell, sustained his attachments, and have the individual, as well as the partnership property, all sold and the proceeds applied to the payment of Clements’ several demands to the exclusion ■ of the' other creditors.
+. The- proof shows conclusively that the partnership effects were not sufficient to pay the firm debts; the partners had abandoned and left the property and were in no condition to apply, or use it in the payment of their debts, and the only object Joseph C. Mitchell had in view, in making the mortgage; was to secure his father in preference to other creditors. The conveyance was made in contemplation of insolvency with a design to prefer creditors and should have been so adjudged.
+The act, however, by which the partnership is declared insolvent does not necessarily affect the individual estate of the partners who were in no wise instrumental in its execution, and so far as is made to appear from the proof in the record the act of insolvency can be made to apply alone to the firm, and not to the individual members thereof so as to affect their separate or indi-, vidual estate.
+The members of the firm whose houses and lots had been attached were out of the state, and not cognizant of the execution of the mortgage by which all of the property belonging to the firm of which they were members inured to the benefit of their creditors. The remaining partner had the legal and equitable right to niortgage this property, and having such right, his attempt to prefer a partnership creditor was constructively fraudulent; the only property of which the partners who were cognizant of its execution, can 'be divested, by reason of the-transfer, is the property alone in which as partners they had a common interest.
+W. P. D. Bush, Houston, for appellant.
+Adair, for appellees.
+Upon the state of facts, thus presented, there is no equitable principle' by which the appellee, Clements, can assert his lien upon the individual estate of each one of the partners and then claim by way of substitution the benefit of all the partnership effects by reason of the mortgage executed to his assignor, Mitchell. He has seen proper to pursue his remedy resulting in the sale of the houses and lots belonging to Fitzhenry and Liversay, and he must be content with what he has realized out of this fund until the partnership creditors are -made equal out of the partnership effects. His equitable right to priority can not exist upon the individual property and the partnership property; he has gone from the partnership estate where he had a lien on the equitable principle of substitution in common with other partnership creditors, and must now wait until these partnership creditors receive out of the partnership fund a sum equal, in proportion to their debts, to what he has -received from the sale -of the individual property und-er his attachment. Northern Bank of Kentucky v. Keyes, 2 Duvall, page 170; Stoys Equity Jurisprudence, page 647.
+The judgment of the court below is reversed and the cause remanded with directions to refer the case to a commissioner, to audit and settle the accounts and liabilities of the partnership and distribute the proceeds of the sale of the partnership effects between the creditors in conformity with this1 opinion and for further proceedings consistent herewith.
