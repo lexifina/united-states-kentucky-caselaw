@@ -1,7 +1,7 @@
 ---
 court: "Kentucky Court of Appeals"
 decided: "1873-06-27"
-citations: ["7 Ky. Op. 42", "7 Ky. Op. 47"]
+citations: ["7 Ky. Op. 42"]
 reporter: "ky-op"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
